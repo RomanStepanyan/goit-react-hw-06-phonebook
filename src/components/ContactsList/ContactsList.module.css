@@ -1,0 +1,12 @@
+.contact {
+  width: fit-content;
+  margin-bottom: 5px;
+  border: 1px rgba(88, 90, 90, 0.2) solid;
+}
+
+.contact:hover {
+  background-color: beige;
+}
+.contact_span {
+  margin-right: 10px;
+}
